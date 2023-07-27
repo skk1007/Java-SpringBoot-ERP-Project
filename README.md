@@ -1,8 +1,12 @@
 # SpringBoot sky beauty ERP 
 Project Introduction:
-As a skincare product company, there are a lot of data to be processed everyday. The ERP system can help employees to improve work efficiency. It includes employee personal information page, sales record page, and finance page, etc. 
+As a skincare product company, there are a lot of data to be processed everyday.
+The ERP system can help employees to improve work efficiency.
+It includes employee personal information page, sales record page, and finance page, etc. 
+
 Major Tech: 
 SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
+
 Highlight:
 Manage data from employee, sales, and finance
 Able to perform CRUD for different business functions
