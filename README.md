@@ -15,4 +15,4 @@ Design and develop the entire project from 0 to 1, including tech selection, sys
 Applied RESTful API and test through Swagger and PostMan<br>
 Deloyed on AWS EC2 linux connecting with MySQL on RDS<br>
 Able to visit the ERP system through the link on Github<br>
-https://github.com/skk1007?tab=repositories
+http://35.73.30.92:3008/
