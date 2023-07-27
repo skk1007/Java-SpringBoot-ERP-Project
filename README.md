@@ -1,2 +1,2 @@
-# SpringBoot Sky beauty ERP 
+# SpringBoot sky beauty ERP 
 Springboot,MySQL, React, TS
