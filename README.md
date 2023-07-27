@@ -6,7 +6,7 @@ It includes employee personal information page, sales record page, and finance p
 <hr>
 Major Tech: 
 SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
-
+<hr>
 Highlight:
 Manage data from employee, sales, and finance
 Able to perform CRUD for different business functions
