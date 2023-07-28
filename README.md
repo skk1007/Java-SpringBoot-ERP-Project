@@ -5,7 +5,7 @@ The ERP system can help employees to improve work efficiency.
 It includes employee personal information page, sales record page, and finance page, etc. 
 <hr>
 Major Tech: 
-SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
+Java + SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
 <hr>
 <br>
 Highlight:
