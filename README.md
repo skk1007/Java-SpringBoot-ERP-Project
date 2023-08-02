@@ -1,4 +1,4 @@
-# SpringBoot sky beauty ERP 
+# SpringBoot ERP Project 
 Project Introduction:
 
 It is a personal side-project for study. This Java based system can help enterprise internal users to improve work efficiency. As a skincare product company,
