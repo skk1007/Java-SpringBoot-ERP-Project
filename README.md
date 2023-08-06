@@ -3,6 +3,7 @@ It is a personal side-project for study. This Java based system can help enterpr
 <hr>
 Major Tech: 
 Java + SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
+<hr>
 <br>
 Highlight:
 Able to perform CRUD for different business functions<br>
