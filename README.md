@@ -1,5 +1,5 @@
-# SpringBoot ERP Side-Project 
-It is a personal side-project for study. This Java-based system can help enterprise internal users to improve work efficiency. The project will update more applications including Redis and RabbitMQ.
+# SpringBoot ERP Personal-Project 
+It is a personal project for study. This Java-based system can help enterprise internal users to improve work efficiency. The project will update more applications including Redis and RabbitMQ.
 <hr>
 Major Tech: 
 Java + SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
