@@ -1,4 +1,4 @@
-# SpringBoot ERP Personal-Project 
+# SpringBoot ERP Project 
 It is a personal project for study. This Java-based system can help enterprise internal users improve work efficiency.
 <hr>
 Major Tech: 
