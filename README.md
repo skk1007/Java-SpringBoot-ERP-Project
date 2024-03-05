@@ -1,5 +1,5 @@
 # SpringBoot ERP Project 
-It is a personal project for study. This Java-based system can help enterprise internal users improve work efficiency.
+It is a personal project for study. This website helps users to improve work efficiency.
 <hr>
 Major Tech: 
 Java + SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
