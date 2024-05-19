@@ -2,7 +2,7 @@
 It is a personal project for study. This website helps users to improve work efficiency.
 <hr>
 Major Tech: 
-Java + SpringBoot + MySQL + JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
+Java + SpringBoot + MySQL + Spring Data JPA + Typescript + React + AWS EC2 RDS + Maven + nginx
 <hr>
 <br>
 Highlight:
